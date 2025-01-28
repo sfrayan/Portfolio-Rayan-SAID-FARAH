@@ -21,7 +21,7 @@ Le projet est organisé de la manière suivante :
 
 1. Clonez le dépôt sur votre machine locale :
     ```sh
-    git clone <URL_DU_DEPOT>
+    git clone [<URL_DU_DEPOT>](https://github.com/sfrayan/Portfolio-Rayan-SAID-FARAH/tree/main)
     ```
 2. Ouvrez le fichier `site_web.html` dans votre navigateur pour voir le portfolio.
 
